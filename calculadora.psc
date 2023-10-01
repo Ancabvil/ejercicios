@@ -4,7 +4,7 @@ Algoritmo calculadora
 	EScribir "2 Resta"
 	Escribir "3 Multiplicación"
 	Escribir "4 División"
-	Escribir "5 Salir"
+	Escribir "5 Terminar"
 	leer selec
 	si selec = 1
 		Escribir "Añada un sumando:"
